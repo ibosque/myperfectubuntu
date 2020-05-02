@@ -14,3 +14,5 @@ Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installin
 para cambiar los iconos de lado simplemente abre el gnome tweaks, ves a la pesta;a windows y selecciona left
 
 Timeshift para copias de seguridad https://www.youtube.com/watch?v=ifvcrsnBAp4
+
+Expandir la capacidad del disco a posteriori es una liada... mejor crear desde el principio una maquina virtual con mas espacio
