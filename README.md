@@ -10,3 +10,7 @@ Instalado gnome tweaks directamente desde la tienda de ubuntu para poder hacer c
 
 
 Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
+
+para cambiar los iconos de lado simplemente abre el gnome tweaks, ves a la pesta;a windows y selecciona left
+
+Timeshift para copias de seguridad https://www.youtube.com/watch?v=ifvcrsnBAp4
