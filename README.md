@@ -21,3 +21,4 @@ para el planner primero https://flatpak.org/setup/Ubuntu/
 y luego https://flathub.org/apps/details/com.github.alainm23.planner no sincronizaaa
 
 todoist https://github.com/KryDos/todoist-linux
+catalina theme https://www.gnome-look.org/p/1316421/
