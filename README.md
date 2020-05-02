@@ -18,4 +18,6 @@ Timeshift para copias de seguridad https://www.youtube.com/watch?v=ifvcrsnBAp4
 Expandir la capacidad del disco a posteriori es una liada... mejor crear desde el principio una maquina virtual con mas espacio
 
 para el planner primero https://flatpak.org/setup/Ubuntu/
-y luego https://flathub.org/apps/details/com.github.alainm23.planner
+y luego https://flathub.org/apps/details/com.github.alainm23.planner no sincronizaaa
+
+todoist https://github.com/KryDos/todoist-linux
