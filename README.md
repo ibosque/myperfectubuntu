@@ -22,3 +22,4 @@ y luego https://flathub.org/apps/details/com.github.alainm23.planner no sincroni
 
 todoist https://github.com/KryDos/todoist-linux
 catalina theme https://www.gnome-look.org/p/1316421/
+wallpaper https://www.reddit.com/r/osx/comments/bwfuwo/macos_catalina_official_wallpaper_high_resolution/
