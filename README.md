@@ -24,7 +24,7 @@ todoist https://github.com/KryDos/todoist-linux
 catalina theme https://www.gnome-look.org/p/1316421/
 wallpaper https://www.reddit.com/r/osx/comments/bwfuwo/macos_catalina_official_wallpaper_high_resolution/
 plank dock, install plant and then put transparetn https://elementaryos.stackexchange.com/questions/7777/how-to-get-a-transparent-background-for-plank
-also https://www.linuxliteos.com/forums/start-up-and-shutdown/plank-at-startup/
+also https://www.linuxliteos.com/forums/start-up-and-shutdown/plank-at-startup/ ESTO NO FUNCIONAA VUELVE SIEMPRE A LA PANTALLA DE LOGHIN
 
 icons https://www.gnome-look.org/p/1210856/
 
