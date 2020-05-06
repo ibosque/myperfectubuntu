@@ -29,3 +29,5 @@ also https://www.linuxliteos.com/forums/start-up-and-shutdown/plank-at-startup/ 
 icons https://www.gnome-look.org/p/1210856/
 
 anki https://apps.ankiweb.net/
+
+lotion https://github.com/puneetsl/lotion como el notion
