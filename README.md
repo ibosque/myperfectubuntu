@@ -10,6 +10,8 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/
 
 ctrl + space as shortcut and yosemite look
 
+4 - install chrome to use open drive
+5- install opend drive https://www.addictivetips.com/ubuntu-linux-tips/access-google-drive-on-linux-with-open-drive/
 Instalado el telegram https://desktop.telegram.org/
 
 Instalado gnome tweaks directamente desde la tienda de ubuntu para poder hacer cambios de apariencia
