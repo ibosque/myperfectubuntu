@@ -5,14 +5,13 @@
 
 2 - Instalado el atom, he tenido que hacer el clon del repositorio primero directamente desde la terminal y ya luego navegar desde atom hasta esa carpeta. acuerdate q para hace push, primero commit y luego al boton de abajo que pone push
 https://flight-manual.atom.io/getting-started/sections/installing-atom/
-2.5 - compiler c++ https://www.youtube.com/watch?v=wbwYU5wv5hs
+2.5 - compiler c++ https://atom.io/packages/gpp-compiler
 
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
 ctrl + space as shortcut and yosemite look
 
-4 - install chrome to use open drive
-4.5 - change default webbrowser https://www.omgubuntu.co.uk/2015/04/change-your-default-web-browser-in-ubuntu
+
 5- install opend drive https://www.addictivetips.com/ubuntu-linux-tips/access-google-drive-on-linux-with-open-drive/
 Instalado el telegram https://desktop.telegram.org/
 
