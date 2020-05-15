@@ -3,7 +3,10 @@
 
 1 - pantalla completa: https://tech.jocodoma.com/2019/02/16/VMware-VM-Ubuntu-18-04-Full-Screen-Problem/ 
 
-Instalado el atom, he tenido que hacer el clon del repositorio primero directamente desde la terminal y ya luego navegar desde atom hasta esa carpeta. acuerdate q para hace push, primero commit y luego al boton de abajo que pone push
+2 - Instalado el atom, he tenido que hacer el clon del repositorio primero directamente desde la terminal y ya luego navegar desde atom hasta esa carpeta. acuerdate q para hace push, primero commit y luego al boton de abajo que pone push
+https://flight-manual.atom.io/getting-started/sections/installing-atom/
+
+
 
 Instalado el telegram https://desktop.telegram.org/
 
