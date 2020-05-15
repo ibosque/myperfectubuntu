@@ -5,6 +5,7 @@
 
 2 - Instalado el atom, he tenido que hacer el clon del repositorio primero directamente desde la terminal y ya luego navegar desde atom hasta esa carpeta. acuerdate q para hace push, primero commit y luego al boton de abajo que pone push
 https://flight-manual.atom.io/getting-started/sections/installing-atom/
+2.5 - compiler c++ https://www.youtube.com/watch?v=wbwYU5wv5hs
 
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
