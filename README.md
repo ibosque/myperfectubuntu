@@ -8,6 +8,8 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/
 
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
+ctrl + space as shortcut and yosemite look
+
 Instalado el telegram https://desktop.telegram.org/
 
 Instalado gnome tweaks directamente desde la tienda de ubuntu para poder hacer cambios de apariencia
