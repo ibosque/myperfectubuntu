@@ -11,6 +11,7 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/
 ctrl + space as shortcut and yosemite look
 
 4 - install chrome to use open drive
+4.5 - change default webbrowser https://www.omgubuntu.co.uk/2015/04/change-your-default-web-browser-in-ubuntu
 5- install opend drive https://www.addictivetips.com/ubuntu-linux-tips/access-google-drive-on-linux-with-open-drive/
 Instalado el telegram https://desktop.telegram.org/
 
