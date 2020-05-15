@@ -7,6 +7,8 @@
 https://flight-manual.atom.io/getting-started/sections/installing-atom/
 2.5 - compiler c++ https://atom.io/packages/gpp-compiler
 
+2.7 - code::blocks https://www.linuxbabe.com/ubuntu/install-code-blocks-ubuntu-16-04-17-04
+
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
 ctrl + space as shortcut and yosemite look
