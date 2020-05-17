@@ -41,3 +41,6 @@ icons https://www.gnome-look.org/p/1210856/
 anki https://apps.ankiweb.net/
 
 lotion https://github.com/puneetsl/lotion como el notion
+
+
+20 - Complete fullscreen: https://communities.vmware.com/thread/444523
