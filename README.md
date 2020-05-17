@@ -44,3 +44,4 @@ lotion https://github.com/puneetsl/lotion como el notion
 
 
 20 - Complete fullscreen: https://communities.vmware.com/thread/444523
+para salir de la pantalla complete ctrl +alt y luego ctrl + alt + enter
