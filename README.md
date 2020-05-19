@@ -39,3 +39,5 @@ anki https://apps.ankiweb.net/
 
 8 - Complete fullscreen: https://communities.vmware.com/thread/444523
 para salir de la pantalla complete ctrl +alt y luego ctrl + alt + enter
+
+9- video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
