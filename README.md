@@ -94,6 +94,9 @@ anki https://apps.ankiweb.net/
 8 - Complete fullscreen: https://communities.vmware.com/thread/444523
 para salir de la pantalla complete ctrl +alt y luego ctrl + alt + enter
 
+## papelera
+gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
+
 
 7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
 
