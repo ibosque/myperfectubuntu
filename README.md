@@ -67,7 +67,7 @@ https://www.thefanclub.co.za/overgrive
 ## Lotion
 lotion https://github.com/puneetsl/lotion como el notion Creado con la cuenta de delft, the da acceso gratis. Para instalarlo tienes que navegar hasta la carpeta. Si clonas el repositorio con atom, te creara una carpeta en home que se llmaa github, y dentro de esa carpeta, esta la carpeta lotion. Navega hasta alli y ejecuta el comando de instalar.
 
-
+Emojis de colores, como la instalacion de ubuntu ha sido 'minma' de entrada no tienes emojis de colores y los tienes que reinstalar con este comando sudo apt install --reinstall fonts-noto-color-emoji
 ## Telegram
 Instalado el telegram https://desktop.telegram.org/
 
