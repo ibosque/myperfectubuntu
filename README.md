@@ -1,6 +1,6 @@
 # myperfectubuntu
 
-```bash
+```sh
 #!/bin/bash 
 
 sudo apt update
