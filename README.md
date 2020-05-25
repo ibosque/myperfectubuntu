@@ -81,7 +81,10 @@ Instalado el telegram https://desktop.telegram.org/
 
 video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
 
+## Matlab
+Lo bajas de la pagina oficial y navegas hasta la carpeta
 
+sudo ./install  -mode silent -agreeToLicense yes
 
 
 ##OPTIONAL THINGS
