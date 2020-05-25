@@ -84,10 +84,10 @@ video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
 ## Matlab
 Lo bajas de la pagina oficial y navegas hasta la carpeta
 
-sudo ./install  -mode silent -agreeToLicense yes
+sudo ./install  
 
 
-##OPTIONAL THINGS
+## OPTIONAL THINGS
 2.5 - compiler c++ https://atom.io/packages/gpp-compiler
 anki https://apps.ankiweb.net/
 1 - pantalla completa: https://tech.jocodoma.com/2019/02/16/VMware-VM-Ubuntu-18-04-Full-Screen-Problem/ 
