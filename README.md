@@ -49,6 +49,10 @@ Para el 20.04 este http://download.opensuse.org/repositories/home:/manuelschneid
 
 el gdebi se puede instalar desde la tienda
 ctrl + space as shortcut and yosemite look
+
+
+sudo mv ~/Desktop/albert.svg /usr/share/icons/hicolor/scalable/apps/albert.svg 
+
 ICONO   /usr/share/icons/hicolor/scalable/apps
 ## Gnome tweaks
 Instalado gnome tweaks directamente desde la tienda de ubuntu para poder hacer cambios de apariencia
