@@ -28,22 +28,14 @@ sudo apt install atom
 Instalado el atom, he tenido que hacer el clon del repositorio primero directamente desde la terminal y ya luego navegar desde atom hasta esa carpeta. acuerdate q para hace push, primero commit y luego al boton de abajo que pone push
 https://flight-manual.atom.io/getting-started/sections/installing-atom/
 
-
 ## Albert
 
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
 ctrl + space as shortcut and yosemite look
 
-
-5- install overgrive
-
-Instalado el telegram https://desktop.telegram.org/
-
+## Gnome tweaks
 Instalado gnome tweaks directamente desde la tienda de ubuntu para poder hacer cambios de apariencia
-
-
-
 
 para cambiar los iconos de lado simplemente abre el gnome tweaks, ves a la pesta;a windows y selecciona left
 
@@ -53,16 +45,28 @@ desde la tienda instalar "dash to dock" .este se abre desde la pestala "extensio
 
 icons https://www.gnome-look.org/p/1210856/
 
+## Overgrive
+https://www.thefanclub.co.za/overgrive
+
+## Lotion
+lotion https://github.com/puneetsl/lotion como el notion Creado con la cuenta de delft, the da acceso gratis. Para instalarlo tienes que navegar hasta la carpeta. Si clonas el repositorio con atom, te creara una carpeta en home que se llmaa github, y dentro de esa carpeta, esta la carpeta lotion. Navega hasta alli y ejecuta el comando de instalar.
 
 
-6 - lotion https://github.com/puneetsl/lotion como el notion Creado con la cuenta de delft, the da acceso gratis. Para instalarlo tienes que navegar hasta la carpeta. Si clonas el repositorio con atom, te creara una carpeta en home que se llmaa github, y dentro de esa carpeta, esta la carpeta lotion. Navega hasta alli y ejecuta el comando de instalar.
-
-7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
-
+## Telegram
+Instalado el telegram https://desktop.telegram.org/
 
 
 
-9- video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
+## Shotcut
+
+video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
+
+
+
+
+
+
+
 
 OPTIONAL THINGS
 2.5 - compiler c++ https://atom.io/packages/gpp-compiler
@@ -70,3 +74,8 @@ anki https://apps.ankiweb.net/
 1 - pantalla completa: https://tech.jocodoma.com/2019/02/16/VMware-VM-Ubuntu-18-04-Full-Screen-Problem/ 
 8 - Complete fullscreen: https://communities.vmware.com/thread/444523
 para salir de la pantalla complete ctrl +alt y luego ctrl + alt + enter
+
+
+7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
+
+
