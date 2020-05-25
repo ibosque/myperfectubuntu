@@ -45,6 +45,9 @@ https://flight-manual.atom.io/getting-started/sections/installing-atom/
 
 3 - Install Albert https://askubuntu.com/questions/1077685/ppa-error-while-installing-albert-application-launcher-in-ubuntu-18-04
 
+Para el 20.04 este http://download.opensuse.org/repositories/home:/manuelschneid3r/xUbuntu_20.04/amd64/
+
+el gdebi se puede instalar desde la tienda
 ctrl + space as shortcut and yosemite look
 
 ## Gnome tweaks
