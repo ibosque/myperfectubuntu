@@ -3,8 +3,11 @@
 ```sh
 #!/bin/bash 
 
-sudo apt update
-sudo apt install gdebi //necessary to install albert
+#Installing some basic utilities first
+cd ~
+sudo apt-get update -qq
+sudo apt install -yy gdebi wget
+
 wget https://download.opensuse.org/repositories/home:/manuelschneid3r/xUbuntu_18.04/amd64/albert_0.16.1_amd64.deb
 sudo gdebi albert_0.16.1_amd64.deb // albert
 
@@ -17,6 +20,16 @@ sudo apt-get update
 # Install Atom
 sudo apt install atom
 
+
+sudo add-apt-repository -y ppa:atareao/telegram
+
+sudo apt-get update
+
+sudo apt-get install -yy telegram
+
+
+
+sudo snap install shotcut --classic
 ```
 
 
@@ -64,11 +77,7 @@ video editor shotcut https://snapcraft.io/install/shotcut/ubuntu
 
 
 
-
-
-
-
-OPTIONAL THINGS
+##OPTIONAL THINGS
 2.5 - compiler c++ https://atom.io/packages/gpp-compiler
 anki https://apps.ankiweb.net/
 1 - pantalla completa: https://tech.jocodoma.com/2019/02/16/VMware-VM-Ubuntu-18-04-Full-Screen-Problem/ 
