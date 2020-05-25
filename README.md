@@ -101,6 +101,8 @@ gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
 o desde el gnome tweaks, extensions, desktop, puedes remover a papelera y la carpeta de home
 7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
 
+## keyring
+keyring disable https://askubuntu.com/questions/867/how-can-i-stop-being-prompted-to-unlock-the-default-keyring-on-boot
 
 ## dconf
 la ultima opcion desactiva el backgraound de los iconos
