@@ -65,8 +65,9 @@ desde la tienda instalar "dash to dock" .este se abre desde la pestala "extensio
 
 icons https://www.gnome-look.org/p/1210856/
 
-## Overgrive
-https://www.thefanclub.co.za/overgrive
+## google drive 
+desde lo de a;adir cuentas de una forma oficial
+
 
 ## Lotion
 lotion https://github.com/puneetsl/lotion como el notion Creado con la cuenta de delft, the da acceso gratis. Para instalarlo tienes que navegar hasta la carpeta. Si clonas el repositorio con atom, te creara una carpeta en home que se llmaa github, y dentro de esa carpeta, esta la carpeta lotion. Navega hasta alli y ejecuta el comando de instalar.
@@ -101,3 +102,5 @@ o desde el gnome tweaks, extensions, desktop, puedes remover a papelera y la car
 7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
 
 
+## dconf
+la ultima opcion desactiva el backgraound de los iconos
