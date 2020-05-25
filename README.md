@@ -97,7 +97,7 @@ para salir de la pantalla complete ctrl +alt y luego ctrl + alt + enter
 ## papelera
 gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
 
-
+o desde el gnome tweaks, extensions, desktop, puedes remover a papelera y la carpeta de home
 7 - Si te falla el interenet, reincicia el ordenador, puede que sea un tema del qindows. en el ubuntu tienes que ver el simbolito de los tres cuadraditos arriba a la derecha.
 
 
